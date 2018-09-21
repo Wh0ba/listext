@@ -1,0 +1,10 @@
+Package: com.wh0ba.listext
+Name: listext
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: Wh0ba
+Author: Wh0ba
+Section: System
+Tag: role::hacker
